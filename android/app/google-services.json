@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "533854251530",
+    "project_id": "ventelibre-dc0f7",
+    "storage_bucket": "ventelibre-dc0f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533854251530:android:8356aa30c79e7da79e0df3",
+        "android_client_info": {
+          "package_name": "com.example.ventelibre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533854251530-dmo866obchpmr5mdq28c9bnsqe0nl9in.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ventelibre",
+            "certificate_hash": "79cd6f76bd866f8e31cefdd240c7b52656cf73dc"
+          }
+        },
+        {
+          "client_id": "533854251530-ghc5tbl08aiq2fr4iadm9ver1jhlsgf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjfdYjbAtevfjHAVzqTDnQVOjsWF8k5xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533854251530-ghc5tbl08aiq2fr4iadm9ver1jhlsgf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
